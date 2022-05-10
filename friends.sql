@@ -39,8 +39,8 @@ CREATE TABLE `friends` (
 --
 
 INSERT INTO 'friends' ('id', 'name', 'no_tlp', 'alamat') VALUES
-(20201, 'Widya Megasari', 62890876, 'Cirebon'),
-(20202, 'Maya Oktavia', 628629784, 'Jakarta');
+(1, 'Widya Megasari', 628908763, 'Cirebon'),
+(2, 'Maya Oktavia', 628629784, 'Jakarta');
 
 --
 -- Indexes for dumped tables
